@@ -2,7 +2,7 @@
   <a href="#">
     <img
       alt="Solathon logo"
-      src="https://media.discordapp.net/attachments/807140294764003350/929017682836193410/logo.png"
+      src="https://solathon.vercel.app/solathon.svg"
       width="140"
     />
   </a>
@@ -10,8 +10,8 @@
 
 
 <p align="center">
-  <a href="https://pypi.org/project/solathon/" target="_blank"><img src="https://badge.fury.io/py/solathon.svg" alt="PyPI version"></a>
-  <a href="https://github.com/GitBolt/solathon/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
+  <a href="https://pypi.org/project/solathon_aiohttp/" target="_blank"><img src="https://badge.fury.io/py/solathon_aiohttp.svg" alt="PyPI version"></a>
+  <a href="https://github.com/Vlad2030/solathon-aiohttp/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
   <br>
 </p>
 
